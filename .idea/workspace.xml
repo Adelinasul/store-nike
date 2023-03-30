@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7084a914-fe39-45df-b007-2193f732aad4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2NBA7Imm6GeDanwLuNoqRB6b8kP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7084a914-fe39-45df-b007-2193f732aad4" name="Default Changelist" comment="" />
+      <created>1679126932447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679126932447</updated>
+      <workItem from="1679126933837" duration="4392000" />
+      <workItem from="1679497649352" duration="7561000" />
+      <workItem from="1679558589824" duration="6850000" />
+      <workItem from="1679672133677" duration="136000" />
+      <workItem from="1679672293189" duration="19000" />
+      <workItem from="1679672459533" duration="35000" />
+      <workItem from="1679672542640" duration="17000" />
+      <workItem from="1679672883947" duration="16000" />
+      <workItem from="1679672964045" duration="36000" />
+      <workItem from="1679673016555" duration="825000" />
+      <workItem from="1679673889505" duration="1617000" />
+      <workItem from="1679675912356" duration="8508000" />
+      <workItem from="1679684460416" duration="5000" />
+      <workItem from="1679684469842" duration="18000" />
+      <workItem from="1679684510758" duration="11000" />
+      <workItem from="1679938576935" duration="1700000" />
+      <workItem from="1679978643284" duration="13055000" />
+      <workItem from="1680108852663" duration="270000" />
+      <workItem from="1680109667360" duration="21000" />
+      <workItem from="1680110061807" duration="165000" />
+      <workItem from="1680156629148" duration="90000" />
+      <workItem from="1680163532370" duration="601000" />
+      <workItem from="1680167144770" duration="1267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1679684022247">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="458" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.814@0.25.1440.814" timestamp="1679684022247" />
+  </component>
+</project>
