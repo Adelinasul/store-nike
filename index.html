@@ -19,13 +19,14 @@
             href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"
     />
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="src/styles/animate.css.css">
     <link rel="stylesheet" href="./src/styles/style.css">
 </head>
 <body>
 
 <header class="header">
     <div class="container">
-        <nav class="header__nav">
+        <nav class="header__nav" >
             <h1 class="header__logo">
                 <img src="./src/images/logo.svg" alt="store">
             </h1>
@@ -33,8 +34,9 @@
                 <div class="header__menu">
                     <a href="#" class="header__link">Home</a>
                     <a href="./src/pages/product/index.html" class="header__link">Product</a>
-                    <a href="#" class="header__link">About</a>
+                    <a href="./src/pages/about/index.html" class="header__link">About</a>
                     <a href="#" class="header__link">Review</a>
+                    <a href="#" class="header__link">Contact</a>
                 </div>
 
                 <button class="btn header__btn">SHOP NOW</button>
@@ -92,7 +94,7 @@
                             <span>REVIEW</span>
                         </h3>
                     </div>
-                </div>
+                </div  >
                 <div class="walk__right">
                     <div style="--swiper-navigation-color: #fff; --swiper-pagination-color: #fff" class="swiper mySwiper2">
                         <div class="swiper-wrapper">
@@ -124,9 +126,9 @@
             </div>
         </div>
     </section>
-    <section class="our">
+    <section class="our wow bounceInDown">
         <div class="container">
-            <h2 class="our__title">Our Latest Product</h2>
+            <h2 class="our__title" >Our Latest Product</h2>
             <p class="our__desc">Now that you have a ready strategy to move forward, it’s time to come up with some
                 ideas.</p>
             <div class="our__row">
@@ -393,6 +395,7 @@
 <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="src/js/wow.min.js"></script>
 <script>
     var swiper = new Swiper(".mySwiper", {
         spaceBetween: 10,
